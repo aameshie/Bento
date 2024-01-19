@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'code',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Stack Overflow',
+					link: 'https://stackoverflow.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MDN',
+					link: 'https://developer.mozilla.org',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Dev.to',
+					link: 'https://dev.to',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Codepen',
+					link: 'https://codepen.io',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'ZTM',
+					link: 'https://academy.zerotomastery.io/',
 				},
 				{
 					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					link: 'https://dribbble.com/search/landing-page',
 				},
 				{
 					name: 'Trello',
-					link: 'https://www.trello.com',
+					link: 'https://trello.com/b/b6uZloB7/productivity-board',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Sophia',
+					link: 'https://app.sophia.org/user_sessions/new.html',
 				},
 			],
 		},
